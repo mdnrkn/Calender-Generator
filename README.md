@@ -27,7 +27,7 @@ Calendar Generator is a C++ application designed to generate calendars for speci
 
 ## License
 
-This Calendar Generator is open-source software licensed under the [MIT License](https://opensource.org/license/mit/).
+This Calendar Generator is open-source software licensed under the 'MIT License'. See the License file.
 
 Feel free to modify, enhance, and share this Calendar Generator according to your needs.\
 _<_ Happy coding _!_ _>_
